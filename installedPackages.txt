@@ -1,0 +1,15 @@
+npm install bcrypt mongodb mongoose next-auth
+
+
+Install the correct version of tailwind which is version 3
+
+For the google authentication (Providers)
+visit: console.cloud.google.com
+
+
+to get ssl key
+https://www.cryptool.org/en/cto/
+openssl rand -base64 32
+
+
+npm install lodash.debounce
